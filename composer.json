@@ -1,6 +1,6 @@
 {
 	"name" : "alex198710/pnotify",
-	"description" : "Wrapper around the PNotify",
+	"description" : "Wrapper around the PNotify plugin",
 	"type" : "symfony-bundle",
 	"keywords" : [ "pnotify", "notification" ],
 	"license" : "GPL-3.0+",
